@@ -7,7 +7,8 @@ Power Query was used to clean the data while microsoft excel tools were used for
 
 ### Exploratory Data Analysis
 
-<img width="878" alt="Screenshot 2024-06-28 at 6 29 44 PM" src="https://github.com/ishampho/sales-data-of-a-logistics-ship-company/assets/76577129/d5056606-e8bd-4c81-84de-782eaba8bba4">
+<img width="878" alt="Screenshot 2024-06-28 at 6 29 44 PM" src="https://github.com/ishampho/Cleaning_Sales_Data_of_a_logistics_company_and_Analysis/assets/76577129/9ba82745-e6fb-4dba-9332-2b1c010aa5e2">
+
 
 ### Observations
 There is a drop in the total sales from year 2013 to year 2014 but a gradual increase in the 2015 with the highest sales being in the year 2016 (around the end of the year) and there are no consistent peaks and dips in sales over the months but there is an overall growth in the performance of the sales in the most recent year. The number of orders steadily increased over the years even with the fall and rise in sales over the months(and years).
